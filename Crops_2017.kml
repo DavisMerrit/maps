@@ -1,0 +1,2068 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Карта посівів</name>
+		<Style id='Style2-polygon-1'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffd9d9d9</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-1-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffd9d9d9</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-1-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-1-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>2-1</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 2-1<br>
+<b>Стара назва:</b> Королеве (10)<br>
+<b>Площа, га:</b> 10<br>
+<b>Культура (2017 р.):</b> ПАР
+</div>]]></description>
+			<styleUrl>#Style2-polygon-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>Королеве (10)</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>10</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Хвилівка</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>ПАР</value>
+				</Data>
+				<Data name='Color'>
+					<value>#d9d9d9ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>PAR</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>0</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.10076,49.614865 32.100721,49.614816 32.100621,49.614835 32.100362,49.614879 32.100059,49.614942 32.099667,49.615021 32.099487,49.615094 32.099238,49.615203 32.098792,49.615336 32.098374,49.615427 32.09805,49.615462 32.097438,49.615602 32.09708,49.615633 32.096894,49.615626 32.096625,49.615598 32.09642,49.615587 32.096237,49.615575 32.095963,49.615588 32.095942,49.61565 32.096017,49.61583 32.096017,49.616019 32.096043,49.616219 32.096098,49.616449 32.096183,49.616645 32.096184,49.616893 32.096065,49.617198 32.095975,49.617434 32.095931,49.617704 32.096125,49.617705 32.096379,49.617719 32.096751,49.617653 32.097422,49.617662 32.097703,49.617665 32.098191,49.617641 32.098581,49.617565 32.099055,49.6175 32.099566,49.617496 32.100151,49.61742 32.100668,49.61743 32.101293,49.617341 32.102215,49.617295 32.102161,49.617145 32.10202,49.616867 32.101808,49.616471 32.10126,49.615622 32.100986,49.61523 32.10076,49.614865</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>3-7</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 3-7<br>
+<b>Стара назва:</b> АТО<br>
+<b>Площа, га:</b> 10<br>
+<b>Культура (2017 р.):</b> ПАР
+</div>]]></description>
+			<styleUrl>#Style2-polygon-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>АТО</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>10</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Кропивна</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>ПАР</value>
+				</Data>
+				<Data name='Color'>
+					<value>#d9d9d9ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>PAR</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>0</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.149802,49.619803 32.149867,49.619931 32.149933,49.620386 32.150405,49.621026 32.151184,49.622746 32.151371,49.623279 32.152029,49.623251 32.152841,49.623044 32.15419,49.622917 32.154706,49.622504 32.155222,49.62227 32.155891,49.622007 32.156165,49.621737 32.156187,49.621495 32.15486,49.620933 32.154125,49.620066 32.153455,49.619832 32.152303,49.619675 32.152172,49.619725 32.151217,49.619633 32.149802,49.619803</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-2'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff00ffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-2-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff00ffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-2-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-2-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>4-1</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 4-1<br>
+<b>Стара назва:</b> 0<br>
+<b>Площа, га:</b> 26,2<br>
+<b>Культура (2017 р.):</b> Пшениця (поле не обробляється Гранексом до збору урожаю)
+</div>]]></description>
+			<styleUrl>#Style2-polygon-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>0</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>26,2</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Благодатне</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Пшениця (поле не обробляється Гранексом до збору урожаю)</value>
+				</Data>
+				<Data name='Color'>
+					<value>#ffff00ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Winter wheat (not Granex yet)</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>0</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.15702,49.566936 32.156614,49.566464 32.156258,49.566004 32.155625,49.565334 32.155036,49.564664 32.154546,49.564202 32.154445,49.563988 32.154356,49.564062 32.154296,49.564189 32.153725,49.564627 32.152809,49.56522 32.15083,49.566089 32.149122,49.566857 32.14879,49.566924 32.14866,49.566912 32.149108,49.566659 32.149397,49.56645 32.149814,49.566151 32.150095,49.565874 32.150343,49.565682 32.15004,49.565414 32.149573,49.565027 32.149332,49.564799 32.149195,49.564934 32.14866,49.565236 32.148344,49.565405 32.1482,49.565569 32.147861,49.565583 32.147606,49.565721 32.147266,49.566181 32.14675,49.566726 32.146546,49.567014 32.14633,49.56733 32.146029,49.567645 32.145795,49.567758 32.145249,49.567809 32.14519,49.567717 32.145088,49.567681 32.144793,49.567706 32.144318,49.567821 32.144143,49.567869 32.144013,49.56794 32.143849,49.567919 32.14329,49.567849 32.143099,49.567682 32.142877,49.567532 32.142634,49.567438 32.142317,49.567507 32.142049,49.567737 32.141961,49.56795 32.141741,49.568227 32.14177,49.56841 32.141786,49.568425 32.141835,49.568568 32.142236,49.568703 32.142871,49.568793 32.143425,49.56892 32.143612,49.569106 32.143808,49.56937 32.143932,49.569546 32.144002,49.56963 32.146087,49.569042 32.147019,49.568879 32.14772,49.568636 32.148395,49.568427 32.148938,49.568263 32.151071,49.567929 32.151883,49.567886 32.152872,49.567765 32.153881,49.56778 32.155072,49.567775 32.155507,49.567746 32.156008,49.567522 32.156388,49.567271 32.156889,49.567086 32.157024,49.566999 32.15704,49.567007 32.15702,49.566936</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-25</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-25<br>
+<b>Стара назва:</b> відсутня<br>
+<b>Площа, га:</b> 26<br>
+<b>Культура (2017 р.):</b> ПАР
+</div>]]></description>
+			<styleUrl>#Style2-polygon-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>відсутня</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>26</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>ПАР</value>
+				</Data>
+				<Data name='Color'>
+					<value>#d9d9d9ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>PAR</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>0</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.150947,49.574581,0.0 32.150938,49.574442,0.0 32.151377,49.574036,0.0 32.152315,49.573225,0.0 32.153719,49.571925,0.0 32.155213,49.570463,0.0 32.155762,49.570033,0.0 32.155709,49.569851,0.0 32.15555,49.569624,0.0 32.155275,49.569243,0.0 32.155152,49.568685,0.0 32.155811,49.568449,0.0 32.157136,49.568363,0.0 32.158023,49.568273,0.0 32.159649,49.56757,0.0 32.161592,49.566493,0.0 32.163205,49.565867,0.0 32.164166,49.565938,0.0 32.165124,49.566188,0.0 32.165956,49.56686,0.0 32.165345,49.567236,0.0 32.1644,49.567765,0.0 32.163608,49.568287,0.0 32.162318,49.569057,0.0 32.160186,49.570202,0.0 32.158103,49.571332,0.0 32.158006,49.571507,0.0 32.157281,49.571769,0.0 32.156163,49.572146,0.0 32.155214,49.572322,0.0 32.153634,49.572882,0.0 32.152611,49.573426,0.0 32.151673,49.574341,0.0 32.150947,49.574581,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-3'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffff00</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-3-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffff00</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-3-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-3-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>1-10-я.о.</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-10-я.о.<br>
+<b>Стара назва:</b> 3<br>
+<b>Площа, га:</b> 14<br>
+<b>Культура (2017 р.):</b> Ячмінь озимий
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>3</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>14</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Ячмінь озимий</value>
+				</Data>
+				<Data name='Color'>
+					<value>#00ffffff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Winter barley</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.211523,49.611777 32.208452,49.609625 32.203466,49.612673 32.206691,49.614955 32.211523,49.611777</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-10-п.о.</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-10-п.о.<br>
+<b>Стара назва:</b> 3<br>
+<b>Площа, га:</b> 13<br>
+<b>Культура (2017 р.):</b> Пшениця озима
+</div>]]></description>
+			<styleUrl>#Style2-polygon-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>3</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>13</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Пшениця озима</value>
+				</Data>
+				<Data name='Color'>
+					<value>#ffff00ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Winter wheat</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.205561,49.607597 32.200821,49.610881 32.203455,49.612687 32.205956,49.611145 32.20419,49.609723 32.205989,49.608599 32.205561,49.607597</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-4'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff00ff00</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-4-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff00ff00</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-4-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-4</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-4-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>1-10-ріп</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-10-ріп<br>
+<b>Стара назва:</b> 3<br>
+<b>Площа, га:</b> 52<br>
+<b>Культура (2017 р.):</b> Ріпак
+</div>]]></description>
+			<styleUrl>#Style2-polygon-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>3</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>52</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Ріпак</value>
+				</Data>
+				<Data name='Color'>
+					<value>#00ff00ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Colza</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.211525,49.611782 32.20668,49.614948 32.217071,49.622206 32.217565,49.621715 32.217762,49.621367 32.218344,49.620784 32.219276,49.619896 32.220077,49.619284 32.221185,49.618637 32.211525,49.611782</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-3</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-3<br>
+<b>Стара назва:</b> 7<br>
+<b>Площа, га:</b> 174<br>
+<b>Культура (2017 р.):</b> Ріпак
+</div>]]></description>
+			<styleUrl>#Style2-polygon-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>7</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>174</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Ріпак</value>
+				</Data>
+				<Data name='Color'>
+					<value>#00ff00ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Colza</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.239876,49.638386 32.239278,49.642925 32.254831,49.642197 32.252283,49.630108 32.229742,49.630842 32.239625,49.637784 32.239863,49.638119 32.239876,49.638386</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-19</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-19<br>
+<b>Стара назва:</b> Гатки<br>
+<b>Площа, га:</b> 42<br>
+<b>Культура (2017 р.):</b> Ріпак
+</div>]]></description>
+			<styleUrl>#Style2-polygon-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>Гатки</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>42</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Ріпак</value>
+				</Data>
+				<Data name='Color'>
+					<value>#00ff00ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Colza</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.130268,49.591107 32.130147,49.591126 32.130135,49.591126 32.130084,49.591119 32.130033,49.591069 32.130034,49.591063 32.130041,49.591014 32.130099,49.590956 32.130104,49.590921 32.129975,49.590864 32.129879,49.590892 32.129717,49.590936 32.12948,49.590999 32.129286,49.59109 32.128996,49.591209 32.128794,49.591295 32.128522,49.591634 32.12832,49.591928 32.128147,49.59223 32.127881,49.592814 32.127879,49.592823 32.127838,49.593096 32.127837,49.593101 32.127844,49.593438 32.12779,49.593715 32.127818,49.593974 32.127875,49.59418 32.127864,49.594775 32.127853,49.594971 32.127762,49.595261 32.127616,49.595577 32.127394,49.59603 32.127292,49.596327 32.126828,49.597259 32.126761,49.597411 32.126614,49.597521 32.126433,49.597643 32.126266,49.59778 32.125905,49.598424 32.125725,49.598848 32.125669,49.599139 32.125702,49.599571 32.125666,49.599935 32.12569,49.600289 32.125719,49.600627 32.125785,49.600967 32.125925,49.601566 32.126153,49.601941 32.126227,49.601925 32.126595,49.60179 32.127072,49.601609 32.127348,49.601391 32.127725,49.601172 32.128272,49.600877 32.129005,49.600457 32.129639,49.600119 32.130366,49.599759 32.131429,49.59935 32.132421,49.599044 32.133635,49.598705 32.134681,49.598388 32.135452,49.598168 32.136242,49.597956 32.136826,49.597709 32.137136,49.597379 32.137197,49.597132 32.137196,49.597053 32.136855,49.597045 32.136499,49.597063 32.13591,49.596961 32.135424,49.596863 32.134957,49.596717 32.134831,49.596666 32.13443,49.596653 32.13403,49.596691 32.133532,49.596669 32.133515,49.596669 32.133011,49.596633 32.132995,49.596627 32.132773,49.596545 32.132453,49.5963 32.132401,49.59611 32.132197,49.595805 32.132207,49.59544 32.132327,49.595069 32.132342,49.594873 32.132346,49.594823 32.131921,49.594994 32.13162,49.595216 32.131245,49.595417 32.131226,49.595424 32.13097,49.595514 32.130616,49.595625 32.130133,49.595731 32.129628,49.595899 32.129016,49.596099 32.128422,49.596331 32.128157,49.596352 32.128425,49.59604 32.128548,49.595945 32.128663,49.595779 32.128858,49.59566 32.12913,49.5955 32.129524,49.59539 32.129923,49.595229 32.130188,49.595116 32.130639,49.594901 32.131109,49.594639 32.131203,49.594508 32.130268,49.591107</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-5-п.о.</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-5-п.о.<br>
+<b>Стара назва:</b> 5<br>
+<b>Площа, га:</b> 45<br>
+<b>Культура (2017 р.):</b> Пшениця озима
+</div>]]></description>
+			<styleUrl>#Style2-polygon-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>5</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>45</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Пшениця озима</value>
+				</Data>
+				<Data name='Color'>
+					<value>#ffff00ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Winter wheat</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.223535,49.626517 32.229317,49.630468 32.238555,49.63017 32.237574,49.626066 32.223535,49.626517</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-11-п.о.</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-11-п.о.<br>
+<b>Стара назва:</b> 4<br>
+<b>Площа, га:</b> 60<br>
+<b>Культура (2017 р.):</b> Пшениця озима
+</div>]]></description>
+			<styleUrl>#Style2-polygon-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>4</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>60</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Пшениця озима</value>
+				</Data>
+				<Data name='Color'>
+					<value>#ffff00ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Winter wheat</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.230726,49.613281 32.230813,49.613174 32.230989,49.612819 32.231329,49.61267 32.231658,49.61257 32.232031,49.61247 32.232799,49.612143 32.23428,49.611191 32.237353,49.609122 32.237254,49.609044 32.236903,49.609278 32.236782,49.609278 32.236431,49.609207 32.235246,49.609093 32.234818,49.609136 32.23382,49.608965 32.232997,49.608766 32.232262,49.608418 32.231735,49.607991 32.231428,49.607821 32.229113,49.606996 32.228751,49.606726 32.228608,49.606406 32.228356,49.605844 32.228202,49.605901 32.228059,49.606114 32.227675,49.606349 32.227555,49.606306 32.227368,49.606136 32.227149,49.605894 32.226271,49.60401 32.225975,49.603974 32.225722,49.60401 32.225207,49.60396 32.224801,49.602829 32.224417,49.601485 32.22434,49.600575 32.218532,49.604504 32.230726,49.613281</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-5'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff4fa86a</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-5-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff4fa86a</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-5-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-5</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-5-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>1-11-р.я.</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-11-р.я.<br>
+<b>Стара назва:</b> 4<br>
+<b>Площа, га:</b> 45<br>
+<b>Культура (2017 р.):</b> Ріпак ярий
+</div>]]></description>
+			<styleUrl>#Style2-polygon-5-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>4</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>45</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Ріпак ярий</value>
+				</Data>
+				<Data name='Color'>
+					<value>#6aa84fff
+</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Spring colza</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.217899,49.609655 32.226748,49.615833 32.227187,49.615762 32.22812,49.615115 32.229733,49.614106 32.230468,49.613594 32.230742,49.613281 32.222009,49.607009 32.217899,49.609655</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-17-р.я.</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-17-р.я.<br>
+<b>Стара назва:</b> КТС 5,6,7<br>
+<b>Площа, га:</b> 12<br>
+<b>Культура (2017 р.):</b> Ріпак ярий
+</div>]]></description>
+			<styleUrl>#Style2-polygon-5-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>КТС 5,6,7</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>12</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Ріпак ярий</value>
+				</Data>
+				<Data name='Color'>
+					<value>#6aa84fff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Spring colza</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.195146,49.600852 32.198006,49.602249 32.201578,49.598413 32.199091,49.597077 32.195146,49.600852</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-20</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-20<br>
+<b>Стара назва:</b> Широке<br>
+<b>Площа, га:</b> 42<br>
+<b>Культура (2017 р.):</b> Пшениця озима
+</div>]]></description>
+			<styleUrl>#Style2-polygon-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>Широке</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>42</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Пшениця озима</value>
+				</Data>
+				<Data name='Color'>
+					<value>#ffff00ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Winter wheat</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.125204,49.601677 32.125454,49.602674 32.125511,49.602871 32.125525,49.603083 32.125603,49.603288 32.125658,49.603349 32.125676,49.60335 32.125979,49.603418 32.126249,49.603373 32.126262,49.603373 32.126322,49.603313 32.126325,49.603171 32.126274,49.603022 32.12626,49.602886 32.126135,49.60272 32.126022,49.602591 32.125925,49.60245 32.125887,49.602256 32.12577,49.601906 32.125711,49.601667 32.125648,49.601567 32.125602,49.601453 32.125566,49.601307 32.125507,49.601152 32.125436,49.600936 32.125374,49.600697 32.125336,49.600507 32.125371,49.600309 32.125387,49.600063 32.125398,49.599915 32.125373,49.599708 32.125447,49.599489 32.125513,49.599198 32.125521,49.598897 32.125497,49.598495 32.125466,49.598123 32.125421,49.597681 32.125453,49.597425 32.125512,49.596938 32.125426,49.596665 32.12545,49.596402 32.125452,49.596391 32.125531,49.596235 32.125569,49.596214 32.125577,49.596209 32.125717,49.596042 32.125842,49.595823 32.126185,49.595164 32.126185,49.595009 32.126231,49.594837 32.126341,49.594626 32.126403,49.594378 32.126404,49.59437 32.126412,49.59417 32.126413,49.594166 32.126486,49.5937 32.126531,49.593394 32.126567,49.593138 32.126597,49.592806 32.126543,49.592103 32.126455,49.591749 32.126239,49.591519 32.125868,49.591041 32.125576,49.590768 32.124815,49.589697 32.124365,49.588838 32.12395,49.58762 32.123581,49.586471 32.123154,49.585532 32.122932,49.584836 32.12289,49.583978 32.122864,49.583208 32.122928,49.582746 32.122961,49.582491 32.123001,49.58227 32.12305,49.582028 32.12308,49.581894 32.122915,49.581754 32.122814,49.581652 32.12276,49.58167 32.122764,49.58168 32.122734,49.582197 32.122741,49.582216 32.122647,49.582616 32.122497,49.583269 32.122473,49.583635 32.122472,49.583641 32.122497,49.583946 32.122494,49.583962 32.122535,49.584472 32.122284,49.584803 32.122134,49.585058 32.121693,49.585406 32.12143,49.585727 32.121248,49.585827 32.120913,49.586059 32.120865,49.586203 32.121172,49.58641 32.121237,49.586631 32.121257,49.586652 32.121378,49.58688 32.121469,49.587063 32.121486,49.587226 32.121309,49.587358 32.121075,49.587544 32.120856,49.587814 32.120655,49.588042 32.120687,49.588391 32.12066,49.588649 32.120657,49.58867 32.120617,49.588977 32.120615,49.588996 32.12051,49.589259 32.120455,49.589382 32.120252,49.589454 32.120072,49.58941 32.12006,49.589405 32.11983,49.58932 32.119556,49.589266 32.119495,49.589154 32.119493,49.588947 32.119494,49.588942 32.119536,49.588706 32.119567,49.588456 32.119635,49.588108 32.119636,49.588104 32.119592,49.587828 32.119583,49.587666 32.119597,49.587654 32.119717,49.587494 32.119718,49.587487 32.119842,49.587313 32.11985,49.587295 32.119931,49.587147 32.11983,49.586941 32.11967,49.586915 32.11948,49.586967 32.119464,49.586967 32.11907,49.586966 32.118797,49.586866 32.118799,49.58686 32.118615,49.586772 32.118602,49.586765 32.118404,49.586765 32.118187,49.586843 32.118049,49.586995 32.117971,49.587199 32.117922,49.587429 32.117915,49.587448 32.11796,49.587643 32.118049,49.58782 32.11805,49.587852 32.118129,49.588114 32.11836,49.588251 32.118539,49.588624 32.118988,49.589501 32.119215,49.58983 32.11955,49.590242 32.119722,49.590538 32.11974,49.590548 32.120021,49.590715 32.120033,49.59072 32.120691,49.591031 32.121018,49.591228 32.121023,49.591238 32.121496,49.591643 32.121517,49.591653 32.121882,49.592122 32.122331,49.593003 32.122549,49.593326 32.122865,49.593715 32.122874,49.59373 32.123034,49.594169 32.123065,49.594185 32.123383,49.594759 32.123404,49.594767 32.123628,49.595356 32.123948,49.596203 32.12408,49.596562 32.124295,49.597044 32.124316,49.59706 32.124442,49.597508 32.124441,49.597525 32.12455,49.598135 32.124635,49.598848 32.124584,49.599049 32.12456,49.599355 32.124559,49.59937 32.124746,49.59972 32.124881,49.600025 32.125002,49.600959 32.125204,49.601677</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-22</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-22<br>
+<b>Стара назва:</b> Мисник<br>
+<b>Площа, га:</b> 42<br>
+<b>Культура (2017 р.):</b> Ячмінь озимий
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>Мисник</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>42</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Ячмінь озимий</value>
+				</Data>
+				<Data name='Color'>
+					<value>#00ffffff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Winter barley</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.143846,49.573664 32.137466,49.576041 32.137241,49.576162 32.136661,49.576496 32.135752,49.577087 32.135223,49.57752 32.134407,49.578127 32.132473,49.579596 32.132579,49.579898 32.132805,49.580121 32.132764,49.580299 32.13256,49.580543 32.131657,49.581313 32.131482,49.581549 32.131298,49.581705 32.131148,49.581886 32.130171,49.582577 32.129789,49.582877 32.129409,49.583251 32.128398,49.584088 32.128214,49.58429 32.12815,49.58451 32.128022,49.584813 32.127807,49.585125 32.127695,49.585425 32.127323,49.585999 32.127196,49.586299 32.126987,49.586697 32.126813,49.587001 32.126121,49.587929 32.125969,49.588139 32.125756,49.5884 32.125294,49.588817 32.125032,49.589104 32.124851,49.589342 32.124898,49.589493 32.125147,49.589919 32.125756,49.590689 32.125951,49.590577 32.126094,49.590243 32.126534,49.58969 32.12671,49.58947 32.1269,49.589171 32.127089,49.588789 32.127555,49.588272 32.128211,49.587736 32.12906,49.586962 32.128931,49.586727 32.12914,49.586249 32.129359,49.585983 32.129819,49.585613 32.13052,49.584988 32.131681,49.584252 32.132901,49.583365 32.134263,49.582192 32.137033,49.58021 32.138611,49.578648 32.139836,49.577406 32.141211,49.576892 32.143962,49.575943 32.144336,49.575775 32.144861,49.575597 32.145061,49.575494 32.143846,49.573664</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-24-я.о.</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-24-я.о.<br>
+<b>Стара назва:</b> Солонці<br>
+<b>Площа, га:</b> 38<br>
+<b>Культура (2017 р.):</b> Ячмінь озимий
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>Солонці</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>38</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Ячмінь озимий</value>
+				</Data>
+				<Data name='Color'>
+					<value>#00ffffff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Winter barley</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.154093,49.580349 32.155849,49.579324 32.156946,49.578826 32.162059,49.57692 32.168332,49.574789 32.166843,49.574401 32.165515,49.573436 32.164648,49.573093 32.163266,49.572793 32.160699,49.573348 32.158811,49.573718 32.156551,49.574842 32.154752,49.576393 32.153303,49.577987 32.152974,49.578115 32.153194,49.578869 32.154093,49.580349</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-6'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffd6a7b4</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-6-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffd6a7b4</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-6-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-6</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-6-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>1-21</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-21<br>
+<b>Стара назва:</b> Мисник<br>
+<b>Площа, га:</b> 35<br>
+<b>Культура (2017 р.):</b> Просо
+</div>]]></description>
+			<styleUrl>#Style2-polygon-6-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>Мисник</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>35</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Просо</value>
+				</Data>
+				<Data name='Color'>
+					<value>#b4a7d6ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Millet</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.126301,49.584474 32.126689,49.584008 32.127516,49.583164 32.12822,49.58257 32.129546,49.581428 32.130478,49.580612 32.132251,49.579228 32.132489,49.57871 32.132932,49.577995 32.133143,49.577567 32.132986,49.577505 32.132655,49.57745 32.132328,49.577529 32.132175,49.577639 32.132175,49.577647 32.131808,49.577925 32.131786,49.577942 32.131468,49.578091 32.131422,49.578091 32.131086,49.57829 32.130638,49.578512 32.130386,49.578787 32.130409,49.57895 32.130218,49.579115 32.129715,49.579607 32.12922,49.579961 32.128814,49.580317 32.128497,49.580433 32.128463,49.580329 32.128696,49.579924 32.128798,49.579644 32.12916,49.579293 32.129625,49.578895 32.129991,49.578521 32.130436,49.578143 32.130891,49.577898 32.131477,49.577722 32.131943,49.577583 32.131976,49.577441 32.131637,49.577457 32.131074,49.577552 32.131063,49.577552 32.130545,49.57758 32.130218,49.577631 32.129688,49.577617 32.129261,49.577606 32.12901,49.577387 32.12874,49.577465 32.128213,49.577696 32.127611,49.578012 32.127,49.578343 32.126827,49.578437 32.126438,49.578667 32.125981,49.578944 32.125584,49.579189 32.125365,49.579369 32.125221,49.579492 32.12518,49.579694 32.125078,49.579776 32.124897,49.579828 32.124885,49.579828 32.124598,49.579872 32.124289,49.579986 32.124011,49.580157 32.123585,49.580508 32.123403,49.580755 32.123099,49.581072 32.123087,49.581075 32.123028,49.581191 32.122954,49.581368 32.122789,49.581462 32.122922,49.581549 32.123102,49.58167 32.123167,49.581835 32.123178,49.581965 32.123181,49.582085 32.123107,49.58245 32.123064,49.5829 32.123036,49.583171 32.123038,49.583451 32.123042,49.583889 32.12306,49.584085 32.123059,49.584392 32.123077,49.584626 32.123181,49.584947 32.123322,49.585305 32.123549,49.585955 32.123701,49.58641 32.123839,49.586693 32.12403,49.58735 32.124066,49.587397 32.124186,49.587373 32.124296,49.587272 32.124417,49.587149 32.12463,49.586824 32.124994,49.586464 32.125322,49.586075 32.125528,49.585783 32.125671,49.585664 32.126025,49.585246 32.126361,49.584863 32.126461,49.584702 32.126384,49.584609 32.126301,49.584474</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-24-про</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-24-про<br>
+<b>Стара назва:</b> Солонці<br>
+<b>Площа, га:</b> 20<br>
+<b>Культура (2017 р.):</b> Просо
+</div>]]></description>
+			<styleUrl>#Style2-polygon-6-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>Солонці</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>20</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Просо</value>
+				</Data>
+				<Data name='Color'>
+					<value>#b4a7d6ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Millet</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.154066,49.580352 32.15383,49.580466 32.154346,49.580978 32.154609,49.580836 32.154938,49.58047 32.155948,49.579691 32.157177,49.579168 32.161395,49.578328 32.162663,49.578378 32.163047,49.578307 32.162926,49.578165 32.163003,49.578015 32.163606,49.57761 32.165866,49.576848 32.166228,49.576841 32.16659,49.576585 32.166788,49.576315 32.167073,49.57576 32.167128,49.575731 32.168258,49.575269 32.168895,49.575048 32.169103,49.574892 32.169103,49.574522 32.168949,49.57438 32.168642,49.574252 32.166936,49.574052 32.166497,49.573729 32.166025,49.573273 32.16546,49.573056 32.165109,49.572846 32.164281,49.572629 32.163804,49.572626 32.163469,49.572644 32.163047,49.572562 32.162679,49.57237 32.162427,49.572231 32.162081,49.572227 32.161746,49.572121 32.161593,49.571985 32.161302,49.572035 32.161873,49.572615 32.161247,49.572974 32.160699,49.573213 32.160583,49.573152 32.159722,49.572306 32.158762,49.572718 32.158718,49.57269 32.158521,49.572772 32.158455,49.572914 32.158581,49.57306 32.158899,49.573184 32.158894,49.573376 32.158641,49.573544 32.158153,49.573778 32.157566,49.573999 32.157171,49.574109 32.156622,49.574355 32.155569,49.575102 32.155306,49.575479 32.154834,49.575906 32.15434,49.576425 32.153814,49.577094 32.153243,49.577656 32.152749,49.577955 32.152519,49.578218 32.152629,49.578737 32.153232,49.579303 32.153441,49.579676 32.1536,49.579904 32.153644,49.580263 32.15383,49.580462 32.154065,49.580351 32.154087,49.580339 32.153187,49.578863 32.152976,49.578111 32.153314,49.577984 32.154773,49.576368 32.156561,49.574834 32.158821,49.573721 32.160755,49.573334 32.163269,49.572789 32.164648,49.573095 32.165514,49.573436 32.166842,49.574404 32.168334,49.574788 32.162332,49.576823 32.156836,49.578872 32.155854,49.579324 32.154093,49.580349 32.154088,49.58034 32.154066,49.580352</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>2-2</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 2-2<br>
+<b>Стара назва:</b> Королеве (70)<br>
+<b>Площа, га:</b> 70<br>
+<b>Культура (2017 р.):</b> Просо
+</div>]]></description>
+			<styleUrl>#Style2-polygon-6-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>Королеве (70)</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>70</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Хвилівка</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Просо</value>
+				</Data>
+				<Data name='Color'>
+					<value>#b4a7d6ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Millet</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.101973,49.608038 32.107518,49.60741 32.107492,49.607315 32.107411,49.607066 32.107399,49.607058 32.107307,49.60692 32.107257,49.606759 32.107102,49.606446 32.106935,49.606262 32.106834,49.606212 32.106636,49.606268 32.106317,49.606361 32.105884,49.606448 32.104262,49.606521 32.103838,49.606536 32.103444,49.606565 32.103394,49.606626 32.103422,49.606718 32.10362,49.606751 32.103658,49.606751 32.104014,49.606822 32.104059,49.60688 32.103939,49.606916 32.10352,49.606984 32.103162,49.607048 32.102764,49.607073 32.103552,49.607146 32.103517,49.607225 32.103118,49.607246 32.102639,49.6073 32.102062,49.607307 32.101304,49.607284 32.10043,49.607201 32.100063,49.607116 32.099538,49.606996 32.09895,49.606842 32.098828,49.606827 32.098591,49.606804 32.098397,49.606787 32.098057,49.606789 32.097514,49.606733 32.097216,49.606457 32.096906,49.606196 32.096029,49.605579 32.09529,49.605078 32.093848,49.60437 32.092797,49.603789 32.090374,49.60257 32.089575,49.602112 32.087326,49.600687 32.084448,49.59905 32.08352,49.598715 32.083323,49.598822 32.083241,49.598943 32.083127,49.599159 32.083123,49.599444 32.08308,49.599601 32.082901,49.599781 32.082631,49.599967 32.082511,49.600045 32.082306,49.60025 32.082125,49.600505 32.081901,49.60064 32.081618,49.600775 32.081522,49.600968 32.081677,49.60107 32.08179,49.601281 32.081914,49.601384 32.082324,49.60141 32.082374,49.601402 32.082567,49.601396 32.082605,49.601387 32.082664,49.601388 32.082943,49.601523 32.082959,49.601712 32.082859,49.601874 32.082657,49.602053 32.082347,49.602206 32.082037,49.602384 32.081924,49.602482 32.081929,49.602849 32.082207,49.603004 32.082243,49.603015 32.082559,49.603155 32.082636,49.603156 32.082727,49.603157 32.083048,49.603299 32.083082,49.60332 32.083663,49.603568 32.083702,49.60357 32.083874,49.603796 32.0838,49.604065 32.083925,49.604352 32.084233,49.604543 32.084266,49.604748 32.084292,49.604755 32.084298,49.604967 32.084056,49.605148 32.083619,49.605233 32.082894,49.605364 32.08225,49.605446 32.082157,49.605524 32.082411,49.606348 32.082437,49.606981 32.082468,49.607327 32.082586,49.607895 32.082907,49.608562 32.083324,49.609317 32.086257,49.6089 32.087287,49.608778 32.088642,49.608571 32.090964,49.60826 32.09135,49.608207 32.091831,49.607967 32.093834,49.607893 32.093921,49.607893 32.096212,49.607984 32.098065,49.607987 32.099465,49.608035 32.100818,49.608063 32.101973,49.608038</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-7'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff794da6</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-7-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff794da6</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-7-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-7</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-7-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>1-11-циб</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-11-циб<br>
+<b>Стара назва:</b> 4<br>
+<b>Площа, га:</b> 7,5<br>
+<b>Культура (2017 р.):</b> Цибуля
+</div>]]></description>
+			<styleUrl>#Style2-polygon-7-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>4</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>7,5</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Цибуля</value>
+				</Data>
+				<Data name='Color'>
+					<value>#a64d79ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Onion</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.214465,49.607266 32.217899,49.609648 32.222008,49.607009 32.21853,49.604505 32.214465,49.607266</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-8'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff6666e0</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-8-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff6666e0</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-8-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-8</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-8-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>1-7</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-7<br>
+<b>Стара назва:</b> 6<br>
+<b>Площа, га:</b> 70<br>
+<b>Культура (2017 р.):</b> Соняшник
+</div>]]></description>
+			<styleUrl>#Style2-polygon-8-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>6</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>70</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Соняшник</value>
+				</Data>
+				<Data name='Color'>
+					<value>#e06666ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Sunflower</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.233658,49.620259 32.235442,49.622102 32.237274,49.622161 32.255464,49.621425 32.254576,49.620499 32.250666,49.616535 32.247725,49.613403 32.233658,49.620259</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-4</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-4<br>
+<b>Стара назва:</b> 8<br>
+<b>Площа, га:</b> 168,5<br>
+<b>Культура (2017 р.):</b> Соняшник
+</div>]]></description>
+			<styleUrl>#Style2-polygon-8-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>8</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>168,5</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Соняшник</value>
+				</Data>
+				<Data name='Color'>
+					<value>#e06666ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Sunflower</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.250916,49.621866 32.254856,49.639733 32.266687,49.639381 32.262705,49.621576 32.252125,49.621886 32.250916,49.621866</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-8</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-8<br>
+<b>Стара назва:</b> Штани<br>
+<b>Площа, га:</b> 69<br>
+<b>Культура (2017 р.):</b> Соняшник
+</div>]]></description>
+			<styleUrl>#Style2-polygon-8-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>Штани</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>69</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Соняшник</value>
+				</Data>
+				<Data name='Color'>
+					<value>#e06666ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Sunflower</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.198023,49.620893 32.188626,49.614274 32.182596,49.616098 32.182278,49.616348 32.18238,49.616797 32.182637,49.617104 32.18312,49.617313 32.183528,49.617658 32.183625,49.618108 32.183829,49.618641 32.183868,49.619344 32.18415,49.619705 32.184406,49.619935 32.184794,49.620073 32.185311,49.619942 32.18624,49.619774 32.186607,49.619745 32.186745,49.619968 32.186432,49.620172 32.185765,49.620533 32.184925,49.620911 32.184234,49.621195 32.184085,49.621257 32.18576,49.622043 32.186651,49.622276 32.187232,49.622458 32.187582,49.622516 32.187619,49.622516 32.187901,49.6224 32.188023,49.62239 32.188323,49.622649 32.188531,49.622746 32.191498,49.623112 32.193988,49.62312 32.195989,49.623118 32.196389,49.623092 32.19716,49.623084 32.197454,49.623007 32.197657,49.622811 32.19742,49.621381 32.197486,49.621132 32.197804,49.620981 32.198023,49.620893</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>3-1</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 3-1<br>
+<b>Стара назва:</b> Соловки<br>
+<b>Площа, га:</b> 27<br>
+<b>Культура (2017 р.):</b> Соняшник
+</div>]]></description>
+			<styleUrl>#Style2-polygon-8-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>Соловки</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>27</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Кропивна</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Соняшник</value>
+				</Data>
+				<Data name='Color'>
+					<value>#e06666ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Sunflower</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.187553,49.624253 32.187569,49.624319 32.187561,49.624348 32.187531,49.624406 32.187109,49.624528 32.186456,49.624606 32.185988,49.624623 32.185619,49.624717 32.185318,49.624828 32.185183,49.624888 32.185011,49.625056 32.184881,49.625188 32.184795,49.625357 32.184805,49.6255 32.184924,49.625585 32.185029,49.62568 32.185105,49.625788 32.18507,49.625893 32.185067,49.626042 32.18519,49.626232 32.185202,49.62638 32.185315,49.626504 32.185482,49.626628 32.18572,49.626663 32.185985,49.626651 32.186177,49.626755 32.186421,49.626928 32.186449,49.627048 32.186658,49.627219 32.186775,49.627407 32.186919,49.627618 32.187268,49.62786 32.1874,49.627889 32.187715,49.628052 32.188015,49.628211 32.188191,49.628304 32.187991,49.628456 32.188058,49.62863 32.188157,49.628756 32.188227,49.628806 32.188366,49.628907 32.188685,49.62892 32.188842,49.628887 32.188875,49.628515 32.188994,49.628303 32.189186,49.628184 32.189187,49.628176 32.189408,49.628023 32.189661,49.627937 32.190005,49.627867 32.190214,49.627778 32.190421,49.627659 32.190421,49.627652 32.190645,49.627542 32.190786,49.627426 32.190806,49.627427 32.191113,49.627273 32.191436,49.627178 32.191768,49.627106 32.191779,49.627113 32.192024,49.627003 32.192279,49.626916 32.192317,49.62691 32.192515,49.626858 32.192704,49.626813 32.192869,49.626742 32.192959,49.626703 32.192894,49.626591 32.19286,49.626473 32.192852,49.62635 32.192865,49.626345 32.192944,49.6263 32.19295,49.6263 32.193101,49.626287 32.19318,49.626287 32.193263,49.62633 32.19337,49.626387 32.193466,49.626425 32.19355,49.626453 32.193743,49.626475 32.193904,49.62648 32.194057,49.626473 32.194182,49.626427 32.194273,49.626457 32.19441,49.626458 32.194583,49.626429 32.194718,49.626418 32.194926,49.626414 32.195044,49.626397 32.195338,49.626381 32.195561,49.626372 32.195738,49.626368 32.195889,49.626329 32.195931,49.626284 32.196156,49.626085 32.196436,49.625791 32.196556,49.625622 32.196711,49.625435 32.196814,49.625296 32.196895,49.625133 32.197001,49.62497 32.197034,49.624876 32.197156,49.624808 32.197317,49.624625 32.197483,49.624457 32.197594,49.624333 32.197652,49.624278 32.197736,49.624148 32.197793,49.624046 32.197751,49.623997 32.197646,49.623949 32.196962,49.623945 32.196586,49.623984 32.196346,49.623992 32.196053,49.624028 32.195699,49.624036 32.195337,49.624027 32.195028,49.624059 32.194766,49.624109 32.194629,49.624148 32.194286,49.624186 32.193693,49.624193 32.193216,49.624232 32.192808,49.624226 32.192739,49.624274 32.192321,49.624295 32.191944,49.624301 32.191444,49.624322 32.190929,49.624295 32.190183,49.624207 32.187811,49.623938 32.187528,49.62388 32.18719,49.623827 32.186931,49.623803 32.186777,49.623809 32.186723,49.623862 32.18677,49.623894 32.186862,49.623958 32.186955,49.62401 32.187234,49.624035 32.187398,49.62407 32.187478,49.624114 32.187542,49.624188 32.187553,49.624253</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-9'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff66d9ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-9-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff66d9ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-9-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-9</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-9-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>1-5-соя</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-5-соя<br>
+<b>Стара назва:</b> 5<br>
+<b>Площа, га:</b> 47,8<br>
+<b>Культура (2017 р.):</b> Соя
+</div>]]></description>
+			<styleUrl>#Style2-polygon-9-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>5</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>47,8</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Соя</value>
+				</Data>
+				<Data name='Color'>
+					<value>#ffd966ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Soy</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.238575,49.63017 32.252259,49.629701 32.251379,49.6256 32.237578,49.626066 32.238575,49.63017</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-9</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-9<br>
+<b>Стара назва:</b> 1<br>
+<b>Площа, га:</b> 5,7<br>
+<b>Культура (2017 р.):</b> Соя
+</div>]]></description>
+			<styleUrl>#Style2-polygon-9-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>1</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>5,7</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Соя</value>
+				</Data>
+				<Data name='Color'>
+					<value>#ffd966ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Soy</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.216751,49.622285 32.21323,49.619901 32.208356,49.622992 32.216164,49.622867 32.216518,49.622648 32.216751,49.622285</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-11-соя</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-11-соя<br>
+<b>Стара назва:</b> 4<br>
+<b>Площа, га:</b> 16<br>
+<b>Культура (2017 р.):</b> Соя
+</div>]]></description>
+			<styleUrl>#Style2-polygon-9-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>4</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>16</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Соя</value>
+				</Data>
+				<Data name='Color'>
+					<value>#ffd966ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Soy</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.220467,49.597645 32.224307,49.600596 32.224373,49.599807 32.224109,49.599466 32.224055,49.598662 32.223254,49.597901 32.223298,49.597667 32.22412,49.597169 32.223451,49.596536 32.223144,49.595796 32.220467,49.597645</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-16</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-16<br>
+<b>Стара назва:</b> 2<br>
+<b>Площа, га:</b> 54,5<br>
+<b>Культура (2017 р.):</b> Соя
+</div>]]></description>
+			<styleUrl>#Style2-polygon-9-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>2</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>54,5</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Соя</value>
+				</Data>
+				<Data name='Color'>
+					<value>#ffd966ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Soy</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.214309,49.593186 32.210311,49.590174 32.210139,49.590459 32.210112,49.590467 32.20974,49.590837 32.209323,49.591222 32.208992,49.591582 32.208609,49.592019 32.208309,49.592412 32.20828,49.592421 32.207904,49.592823 32.207594,49.593163 32.207288,49.593458 32.207125,49.593666 32.216342,49.599828 32.216433,49.599754 32.216921,49.599443 32.217692,49.598959 32.218325,49.598583 32.218673,49.598328 32.219246,49.598003 32.220311,49.597201 32.221796,49.596231 32.222493,49.595724 32.222797,49.595547 32.223155,49.595327 32.223633,49.595012 32.224113,49.59472 32.224051,49.594445 32.22382,49.59407 32.223381,49.593867 32.22305,49.593708 32.222624,49.593567 32.222024,49.593421 32.221632,49.593407 32.22161,49.593407 32.221042,49.593338 32.22065,49.593202 32.220536,49.593036 32.220386,49.592803 32.220058,49.59257 32.219807,49.592645 32.219786,49.592645 32.219448,49.592827 32.219303,49.59307 32.219159,49.593307 32.218932,49.593506 32.218526,49.593731 32.21811,49.593832 32.217876,49.593915 32.217398,49.593977 32.217207,49.593861 32.21706,49.593747 32.216771,49.593703 32.216575,49.593667 32.216043,49.593913 32.215941,49.594132 32.215805,49.594333 32.215579,49.594576 32.215077,49.595064 32.215001,49.595297 32.214735,49.595715 32.214216,49.596425 32.213976,49.596361 32.213668,49.596219 32.213274,49.596005 32.213185,49.59579 32.213248,49.59544 32.213194,49.595069 32.213264,49.59439 32.213551,49.593992 32.213892,49.593683 32.214213,49.593369 32.214309,49.593186</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-18</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-18<br>
+<b>Стара назва:</b> За лугом<br>
+<b>Площа, га:</b> 30,9<br>
+<b>Культура (2017 р.):</b> Соя
+</div>]]></description>
+			<styleUrl>#Style2-polygon-9-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>За лугом</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>30,9</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Соя</value>
+				</Data>
+				<Data name='Color'>
+					<value>#ffd966ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Soy</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.127066,49.625078 32.127655,49.624166 32.127943,49.6242 32.12819,49.624326 32.128591,49.624335 32.129366,49.624361 32.130139,49.624413 32.131296,49.624433 32.132298,49.624373 32.133287,49.624269 32.133438,49.624099 32.133448,49.624092 32.133547,49.62386 32.133382,49.623737 32.132864,49.623656 32.132551,49.623628 32.132542,49.623628 32.132469,49.623671 32.132213,49.623751 32.131892,49.62376 32.131783,49.62369 32.131254,49.623692 32.130501,49.623776 32.130388,49.623929 32.130202,49.624045 32.129803,49.624045 32.129352,49.624036 32.129228,49.623932 32.129247,49.623785 32.129363,49.623591 32.129707,49.623044 32.129964,49.622711 32.130172,49.622631 32.130579,49.622519 32.130596,49.622519 32.130973,49.622408 32.131082,49.622287 32.131083,49.622281 32.131177,49.622091 32.131377,49.621988 32.131719,49.621791 32.131745,49.621775 32.132255,49.62166 32.13228,49.62166 32.132606,49.621733 32.132803,49.62181 32.132859,49.62181 32.133217,49.621942 32.133488,49.621991 32.133507,49.621991 32.133791,49.621972 32.134206,49.621964 32.134225,49.621964 32.134837,49.621917 32.135214,49.621895 32.135583,49.62179 32.135858,49.621631 32.136235,49.621393 32.136261,49.621386 32.136481,49.621206 32.136823,49.620871 32.137641,49.61984 32.137874,49.619614 32.138287,49.619291 32.138718,49.619003 32.139143,49.618783 32.139654,49.61863 32.140156,49.618468 32.140579,49.618279 32.141032,49.618169 32.141074,49.618069 32.140951,49.617926 32.140758,49.617825 32.140176,49.617974 32.139828,49.618094 32.13952,49.618264 32.1394,49.618236 32.139103,49.618358 32.138525,49.618445 32.138252,49.618598 32.137994,49.61856 32.137777,49.618417 32.137407,49.618277 32.137378,49.61827 32.136539,49.618272 32.136044,49.61824 32.135252,49.618253 32.135011,49.618384 32.134978,49.618875 32.135045,49.619107 32.134867,49.619334 32.134563,49.619432 32.134489,49.619439 32.134011,49.619507 32.133702,49.619445 32.133561,49.619335 32.133347,49.619135 32.133108,49.619117 32.132762,49.619178 32.132463,49.619124 32.131922,49.619125 32.131258,49.619186 32.130914,49.619321 32.130556,49.61956 32.130321,49.619863 32.129923,49.620056 32.129615,49.620086 32.129286,49.620157 32.129012,49.620557 32.128726,49.620841 32.128459,49.620981 32.128166,49.621073 32.127818,49.621171 32.12767,49.621346 32.12654,49.623797 32.126324,49.624405 32.126207,49.624881 32.126022,49.625331 32.125965,49.625532 32.12587,49.625815 32.125751,49.626065 32.125548,49.626414 32.125496,49.626667 32.125404,49.626948 32.125513,49.627051 32.125522,49.627051 32.125754,49.627104 32.125861,49.627106 32.126362,49.626174 32.126691,49.625728 32.127066,49.625078</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-23</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-23<br>
+<b>Стара назва:</b> Ставки<br>
+<b>Площа, га:</b> 42<br>
+<b>Культура (2017 р.):</b> Соя
+</div>]]></description>
+			<styleUrl>#Style2-polygon-9-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>Ставки</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>42</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Соя</value>
+				</Data>
+				<Data name='Color'>
+					<value>#ffd966ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Soy</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.149851,49.568827 32.147814,49.569321 32.14705,49.569543 32.145514,49.569942 32.14293,49.570696 32.140854,49.571396 32.140844,49.571396 32.139695,49.571841 32.138645,49.572305 32.138076,49.572641 32.137359,49.573158 32.13714,49.573347 32.137092,49.573593 32.137169,49.573789 32.137245,49.574178 32.13729,49.574488 32.137374,49.574754 32.13729,49.575074 32.137286,49.57537 32.13707,49.575647 32.136747,49.575957 32.136539,49.576192 32.136053,49.576406 32.135595,49.576674 32.135013,49.576924 32.134667,49.577112 32.134455,49.577184 32.134079,49.577319 32.133757,49.577378 32.133587,49.577434 32.133581,49.577438 32.13344,49.577564 32.133273,49.577855 32.133062,49.578275 32.132808,49.578552 32.132679,49.578824 32.13249,49.579143 32.132252,49.579476 32.132139,49.57967 32.132255,49.579701 32.132418,49.579589 32.132504,49.579488 32.132821,49.579215 32.133276,49.578888 32.133676,49.578565 32.134317,49.578111 32.134488,49.577988 32.13467,49.577873 32.13524,49.577454 32.135689,49.577067 32.136025,49.576812 32.136285,49.57658 32.136564,49.576466 32.136906,49.576306 32.137022,49.576252 32.137362,49.576039 32.137729,49.57588 32.138158,49.575729 32.138817,49.575498 32.141053,49.574664 32.142546,49.574095 32.143219,49.573835 32.143668,49.57367 32.143746,49.573667 32.144159,49.573506 32.145183,49.573114 32.145915,49.572895 32.146881,49.572386 32.148861,49.571695 32.150957,49.570927 32.15267,49.570313 32.153224,49.570086 32.154567,49.569635 32.154907,49.569522 32.154885,49.569344 32.154779,49.56908 32.1546,49.568826 32.154292,49.568615 32.153871,49.568482 32.153564,49.56847 32.153034,49.568465 32.152473,49.568483 32.151746,49.568486 32.150845,49.568621 32.149851,49.568827</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-6</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-6<br>
+<b>Стара назва:</b> Клинок<br>
+<b>Площа, га:</b> 56<br>
+<b>Культура (2017 р.):</b> Соя
+</div>]]></description>
+			<styleUrl>#Style2-polygon-9-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>Клинок</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>56</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Соя</value>
+				</Data>
+				<Data name='Color'>
+					<value>#ffd966ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Soy</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.218141,49.622751 32.218384,49.622814 32.235113,49.622211 32.228327,49.615421 32.225751,49.616938 32.224644,49.617568 32.22369,49.617976 32.222372,49.618581 32.221394,49.619064 32.219632,49.620223 32.218379,49.621415 32.217618,49.622329 32.217581,49.622395 32.217831,49.622563 32.218034,49.622705 32.218141,49.622751</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-10'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff0090bf</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-10-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff0090bf</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-10-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-10</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-10-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>1-17-кар</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-17-кар<br>
+<b>Стара назва:</b> КТС 5,6,7<br>
+<b>Площа, га:</b> 12<br>
+<b>Культура (2017 р.):</b> Картопля
+</div>]]></description>
+			<styleUrl>#Style2-polygon-10-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>КТС 5,6,7</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>12</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Картопля</value>
+				</Data>
+				<Data name='Color'>
+					<value>#bf9000ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Potato</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.194615,49.605637 32.198002,49.602253 32.195139,49.600855 32.191892,49.603961 32.194615,49.605637</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-2</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-2<br>
+<b>Стара назва:</b> 10<br>
+<b>Площа, га:</b> 100<br>
+<b>Культура (2017 р.):</b> Соя
+</div>]]></description>
+			<styleUrl>#Style2-polygon-9-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>10</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>100</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Соя</value>
+				</Data>
+				<Data name='Color'>
+					<value>#ffd966ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Soy</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.255774,49.643852 32.254996,49.649753 32.268904,49.649493 32.266802,49.639862 32.255187,49.640367 32.255774,49.643852</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-10-соя</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-10-соя<br>
+<b>Стара назва:</b> 3<br>
+<b>Площа, га:</b> 3<br>
+<b>Культура (2017 р.):</b> Соя
+</div>]]></description>
+			<styleUrl>#Style2-polygon-9-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>3</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>3</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Соя</value>
+				</Data>
+				<Data name='Color'>
+					<value>#ffd966ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Soy</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.221114,49.618548 32.221213,49.618621 32.221822,49.61831 32.223555,49.617493 32.225541,49.616647 32.226419,49.616164 32.225725,49.615723 32.221114,49.618548</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-1</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-1<br>
+<b>Стара назва:</b> 9<br>
+<b>Площа, га:</b> 168,1<br>
+<b>Культура (2017 р.):</b> Соняшник
+</div>]]></description>
+			<styleUrl>#Style2-polygon-8-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>9</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>168,1</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Соняшник</value>
+				</Data>
+				<Data name='Color'>
+					<value>#e06666ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Sunflower</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.239231,49.643526 32.237959,49.654399 32.240043,49.654322 32.240466,49.654493 32.240746,49.65481 32.241511,49.655127 32.242385,49.655345 32.243849,49.655949 32.244993,49.656273 32.246351,49.656755 32.246882,49.656848 32.247321,49.656804 32.250961,49.655828 32.251952,49.655588 32.253792,49.655413 32.25412,49.652974 32.254301,49.65012 32.255181,49.643657 32.255164,49.643441 32.255006,49.642791 32.253457,49.642851 32.246867,49.643169 32.239535,49.643501 32.239231,49.643526</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-11'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffff00ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-11-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffff00ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-11-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-11</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-11-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>1-17-я.я.</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-17-я.я.<br>
+<b>Стара назва:</b> КТС 5,6,7<br>
+<b>Площа, га:</b> 14<br>
+<b>Культура (2017 р.):</b> Ячмінь ярий
+</div>]]></description>
+			<styleUrl>#Style2-polygon-11-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>КТС 5,6,7</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>14</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Ячмінь ярий</value>
+				</Data>
+				<Data name='Color'>
+					<value>#ff00ffff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Spring barley</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.199093,49.597075 32.201581,49.59841 32.205336,49.594577 32.20301,49.593326 32.199093,49.597075</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-14</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-14<br>
+<b>Стара назва:</b> 2<br>
+<b>Площа, га:</b> 28<br>
+<b>Культура (2017 р.):</b> Ячмінь ярий
+</div>]]></description>
+			<styleUrl>#Style2-polygon-11-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>2</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>28</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Ячмінь ярий</value>
+				</Data>
+				<Data name='Color'>
+					<value>#ff00ffff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Spring barley</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.195572,49.60528 32.194836,49.605799 32.194719,49.605872 32.194707,49.605888 32.194504,49.606054 32.194494,49.60606 32.194358,49.606217 32.194432,49.606371 32.194734,49.606664 32.200325,49.610523 32.202483,49.609136 32.205282,49.607387 32.205257,49.607224 32.205072,49.607055 32.204705,49.606829 32.201781,49.604722 32.201099,49.605039 32.200807,49.60517 32.200612,49.605248 32.200471,49.605311 32.200304,49.605379 32.200127,49.605385 32.199934,49.605391 32.199766,49.605317 32.199579,49.605156 32.199293,49.605016 32.199093,49.604835 32.199017,49.604809 32.198614,49.604814 32.198451,49.60482 32.198268,49.604799 32.198123,49.604721 32.197984,49.604613 32.197783,49.604532 32.19764,49.604477 32.197464,49.604573 32.197456,49.604578 32.197217,49.60471 32.196963,49.604856 32.196803,49.604952 32.196658,49.604899 32.196562,49.604805 32.196465,49.604727 32.196331,49.604733 32.196062,49.604865 32.196053,49.604871 32.195887,49.604957 32.195877,49.604963 32.195572,49.60528</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-15</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-15<br>
+<b>Стара назва:</b> 2<br>
+<b>Площа, га:</b> 92<br>
+<b>Культура (2017 р.):</b> Соя
+</div>]]></description>
+			<styleUrl>#Style2-polygon-9-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>2</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>92</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Соя</value>
+				</Data>
+				<Data name='Color'>
+					<value>#ffd966ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Soy</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.199574,49.601341 32.19833,49.602459 32.198953,49.602868 32.199822,49.603449 32.200345,49.603778 32.200486,49.603865 32.200771,49.603794 32.201372,49.60372 32.201628,49.60387 32.201988,49.60411 32.202122,49.604243 32.201759,49.604555 32.205276,49.60706 32.205382,49.607135 32.205686,49.607012 32.206057,49.606789 32.206883,49.60618 32.208209,49.605316 32.209799,49.60423 32.210807,49.60352 32.212274,49.602531 32.214064,49.601394 32.215274,49.600536 32.215833,49.600126 32.212341,49.597654 32.207241,49.594264 32.206721,49.593915 32.205236,49.595541 32.203817,49.597103 32.202516,49.598387 32.201541,49.59942 32.200425,49.600527 32.199574,49.601341</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-12'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffe8864a</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-12-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffe8864a</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-12-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-12</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-12-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>1-12</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-12<br>
+<b>Стара назва:</b> КТС 1<br>
+<b>Площа, га:</b> 13<br>
+<b>Культура (2017 р.):</b> Кукурудза
+</div>]]></description>
+			<styleUrl>#Style2-polygon-12-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>КТС 1</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>13</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Кукурудза</value>
+				</Data>
+				<Data name='Color'>
+					<value>#4a86e8ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Corn</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.176263,49.611621 32.176463,49.611663 32.176336,49.611974 32.176334,49.611989 32.176304,49.612219 32.176569,49.612614 32.177063,49.613049 32.177392,49.613407 32.177854,49.613591 32.178488,49.613812 32.179119,49.614056 32.179484,49.614367 32.179872,49.614562 32.180161,49.61465 32.180687,49.614669 32.180917,49.614547 32.180842,49.614315 32.180829,49.614287 32.1807,49.614116 32.180625,49.613711 32.180575,49.613333 32.180575,49.613317 32.180287,49.612979 32.180146,49.612814 32.180146,49.612806 32.179935,49.61235 32.17944,49.611913 32.178485,49.611596 32.177834,49.611338 32.177424,49.611108 32.177425,49.611094 32.17686,49.610486 32.176458,49.610041 32.176167,49.60966 32.175837,49.609519 32.175418,49.609642 32.174859,49.609845 32.174505,49.610022 32.174228,49.61014 32.173862,49.610259 32.173521,49.610342 32.173355,49.610489 32.173283,49.610657 32.1736,49.610984 32.173932,49.611349 32.174038,49.611505 32.1742,49.611626 32.174414,49.611726 32.174798,49.611757 32.175274,49.611671 32.175915,49.611546 32.176263,49.611621</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-13</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-13<br>
+<b>Стара назва:</b> КТС 2<br>
+<b>Площа, га:</b> 33<br>
+<b>Культура (2017 р.):</b> Кукурудза
+</div>]]></description>
+			<styleUrl>#Style2-polygon-12-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>КТС 2</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>33</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Кукурудза</value>
+				</Data>
+				<Data name='Color'>
+					<value>#4a86e8ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Corn</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.189029,49.61138 32.189865,49.611141 32.189977,49.610154 32.188884,49.610038 32.188664,49.609798 32.188753,49.609216 32.188778,49.609181 32.188803,49.608817 32.188912,49.608593 32.189247,49.608341 32.189424,49.608174 32.18956,49.607898 32.189563,49.607588 32.189378,49.607163 32.189378,49.607148 32.189248,49.606977 32.188883,49.607028 32.187835,49.607258 32.186731,49.607426 32.185483,49.607621 32.184371,49.607854 32.183024,49.608078 32.18175,49.608334 32.180497,49.608513 32.180209,49.608587 32.18037,49.609084 32.180598,49.60955 32.180662,49.609704 32.181149,49.609767 32.181316,49.609849 32.181365,49.610034 32.181329,49.610267 32.181213,49.610409 32.181519,49.610905 32.181604,49.611423 32.181796,49.611803 32.182162,49.612061 32.182182,49.612093 32.182399,49.61237 32.182486,49.612677 32.182682,49.613092 32.182982,49.61353 32.18316,49.613586 32.185102,49.613137 32.18647,49.612937 32.187812,49.612685 32.188274,49.61261 32.188128,49.612329 32.188378,49.612138 32.188612,49.61195 32.188612,49.611939 32.188694,49.611741 32.188762,49.611524 32.189029,49.61138</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-17-кук</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-17-кук<br>
+<b>Стара назва:</b> КТС 5,6,7<br>
+<b>Площа, га:</b> 85<br>
+<b>Культура (2017 р.):</b> Кукурудза
+</div>]]></description>
+			<styleUrl>#Style2-polygon-12-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>КТС 5,6,7</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>85</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Кукурудза</value>
+				</Data>
+				<Data name='Color'>
+					<value>#4a86e8ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Corn</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.205336,49.594577 32.205764,49.5942 32.206796,49.593133 32.209528,49.590345 32.21012,49.589712 32.20978,49.589633 32.209396,49.589612 32.20876,49.589285 32.208529,49.589313 32.207476,49.589833 32.206203,49.590416 32.205468,49.590722 32.205139,49.590942 32.204897,49.591106 32.204195,49.59134 32.203263,49.591717 32.202736,49.592094 32.202385,49.592436 32.202176,49.592756 32.202012,49.59272 32.201716,49.592791 32.201178,49.593055 32.200772,49.593375 32.200245,49.59373 32.199828,49.594128 32.199565,49.594577 32.19939,49.594996 32.199126,49.595231 32.19849,49.595672 32.198227,49.5958 32.198468,49.596326 32.19827,49.596482 32.198029,49.596369 32.197832,49.596127 32.197371,49.595914 32.196427,49.596269 32.195462,49.596738 32.194694,49.59708 32.194123,49.597307 32.193991,49.597379 32.194277,49.597507 32.194255,49.597677 32.193904,49.597876 32.193618,49.597848 32.193552,49.59762 32.193596,49.597507 32.193267,49.597691 32.192806,49.597891 32.192543,49.597976 32.192719,49.598104 32.192806,49.598175 32.192719,49.598317 32.192499,49.598403 32.192258,49.598431 32.192082,49.59836 32.191972,49.598403 32.191182,49.598644 32.191007,49.598872 32.190897,49.599128 32.190634,49.59927 32.188176,49.599953 32.187167,49.600351 32.186333,49.60065 32.185784,49.601105 32.185521,49.601659 32.185082,49.602257 32.184204,49.602939 32.183546,49.60321 32.183151,49.603395 32.183875,49.604106 32.184073,49.604575 32.184007,49.604973 32.18416,49.605428 32.184512,49.605684 32.184709,49.606011 32.184665,49.60631 32.184731,49.606736 32.185148,49.607391 32.192016,49.606253 32.193531,49.605926 32.194474,49.605727 32.194606,49.605641 32.191885,49.603963 32.20301,49.593325 32.205336,49.594577</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-5-кук</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-5-кук<br>
+<b>Стара назва:</b> 5<br>
+<b>Площа, га:</b> 85<br>
+<b>Культура (2017 р.):</b> Кукурудза
+</div>]]></description>
+			<styleUrl>#Style2-polygon-12-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>5</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>85</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Кукурудза</value>
+				</Data>
+				<Data name='Color'>
+					<value>#4a86e8ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Corn</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.218422,49.622991 32.223535,49.62651 32.251376,49.625584 32.250548,49.621818 32.218422,49.622991</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>3-2</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 3-2<br>
+<b>Стара назва:</b> 5<br>
+<b>Площа, га:</b> 50,5<br>
+<b>Культура (2017 р.):</b> Кукурудза
+</div>]]></description>
+			<styleUrl>#Style2-polygon-12-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>5</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>50,5</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Кропивна</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Кукурудза</value>
+				</Data>
+				<Data name='Color'>
+					<value>#4a86e8ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Corn</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.21597,49.623206 32.216078,49.623184 32.216139,49.623061 32.215893,49.623062 32.209997,49.623257 32.20966,49.623326 32.209493,49.623472 32.209176,49.623542 32.200754,49.623865 32.200441,49.624044 32.199982,49.624346 32.199717,49.624514 32.199411,49.624696 32.199117,49.62516 32.198959,49.625554 32.19889,49.625924 32.19921,49.62608 32.200071,49.626438 32.20069,49.626686 32.201301,49.627124 32.201893,49.627522 32.202095,49.627668 32.202419,49.627893 32.202899,49.628056 32.203456,49.628134 32.204504,49.628203 32.205087,49.628228 32.20544,49.628167 32.205746,49.628098 32.20595,49.627878 32.206124,49.627584 32.206528,49.627108 32.20677,49.626838 32.207087,49.626775 32.207255,49.626855 32.207343,49.626975 32.207501,49.62702 32.20794,49.627015 32.208358,49.626991 32.208816,49.62699 32.20906,49.627045 32.209074,49.62711 32.208983,49.627223 32.208805,49.627338 32.208645,49.627407 32.208388,49.627449 32.207995,49.627577 32.207706,49.627622 32.207388,49.627771 32.20738,49.62794 32.207488,49.628024 32.207703,49.628105 32.208172,49.62818 32.208518,49.628151 32.20894,49.628099 32.210078,49.627852 32.210967,49.627636 32.212118,49.627336 32.21307,49.626787 32.21366,49.626361 32.214379,49.625563 32.21521,49.624293 32.21597,49.623206</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>3-3</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 3-3<br>
+<b>Стара назва:</b> 4.2<br>
+<b>Площа, га:</b> 29,7<br>
+<b>Культура (2017 р.):</b> Кукурудза
+</div>]]></description>
+			<styleUrl>#Style2-polygon-12-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>4.2</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>29,7</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Кропивна</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Кукурудза</value>
+				</Data>
+				<Data name='Color'>
+					<value>#4a86e8ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Corn</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.20855,49.629552 32.20819,49.629517 32.20847,49.629597 32.208774,49.629728 32.208978,49.629845 32.209165,49.630185 32.209287,49.630694 32.209228,49.631207 32.208937,49.631775 32.208766,49.632221 32.208409,49.632633 32.208143,49.633153 32.207794,49.633741 32.207722,49.634181 32.208216,49.63435 32.209573,49.634776 32.209824,49.635002 32.21015,49.635191 32.210741,49.635482 32.211118,49.635685 32.211283,49.635926 32.211419,49.636065 32.211951,49.636415 32.21264,49.63697 32.213535,49.637555 32.213676,49.637245 32.213851,49.635523 32.214106,49.633976 32.214261,49.632202 32.214563,49.630277 32.214638,49.629313 32.214194,49.629313 32.213729,49.629405 32.212881,49.629568 32.212126,49.629611 32.211374,49.629623 32.210687,49.629701 32.209982,49.629741 32.209291,49.629659 32.20855,49.629552</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>3-6</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 3-6<br>
+<b>Стара назва:</b> 2<br>
+<b>Площа, га:</b> 20<br>
+<b>Культура (2017 р.):</b> Кукурудза
+</div>]]></description>
+			<styleUrl>#Style2-polygon-12-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>2</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>20</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Кропивна</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Кукурудза</value>
+				</Data>
+				<Data name='Color'>
+					<value>#4a86e8ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Corn</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.211624,49.656199 32.213715,49.657915 32.222405,49.653646 32.220329,49.651976 32.211624,49.656199</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>3-5</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 3-5<br>
+<b>Стара назва:</b> 3<br>
+<b>Площа, га:</b> 162,8<br>
+<b>Культура (2017 р.):</b> Кукурудза
+</div>]]></description>
+			<styleUrl>#Style2-polygon-12-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>3</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>162,8</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Кропивна</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Кукурудза</value>
+				</Data>
+				<Data name='Color'>
+					<value>#4a86e8ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Corn</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.215052,49.630488 32.21401,49.637936 32.220489,49.642489 32.224975,49.645571 32.227589,49.647453 32.229961,49.649197 32.230575,49.649612 32.233843,49.651907 32.236662,49.653992 32.237348,49.654419 32.238245,49.646624 32.234567,49.643983 32.231373,49.64181 32.227209,49.638783 32.223387,49.636122 32.221089,49.634582 32.217882,49.632408 32.215052,49.630488</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-10-кар</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-10-кар<br>
+<b>Стара назва:</b> 3<br>
+<b>Площа, га:</b> 76<br>
+<b>Культура (2017 р.):</b> Картопля
+</div>]]></description>
+			<styleUrl>#Style2-polygon-10-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>3</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>76</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Картопля</value>
+				</Data>
+				<Data name='Color'>
+					<value>#bf9000ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Potato</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.205759,49.607462 32.205781,49.607732 32.221104,49.618542 32.225717,49.615716 32.210049,49.604689 32.207865,49.606082 32.206593,49.60695 32.205759,49.607462</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>1-11-кар</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 1-11-кар<br>
+<b>Стара назва:</b> 4<br>
+<b>Площа, га:</b> 40<br>
+<b>Культура (2017 р.):</b> Картопля
+</div>]]></description>
+			<styleUrl>#Style2-polygon-10-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>4</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>40</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Деньги</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Картопля</value>
+				</Data>
+				<Data name='Color'>
+					<value>#bf9000ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Potato</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.22429,49.600593 32.220461,49.597627 32.210378,49.604418 32.21446,49.607263 32.22429,49.600593</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>3-4</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Нова назва:</b> 3-4<br>
+<b>Стара назва:</b> 4.1<br>
+<b>Площа, га:</b> 171,3<br>
+<b>Культура (2017 р.):</b> Кукурудза
+</div>]]></description>
+			<styleUrl>#Style2-polygon-12-map</styleUrl>
+			<ExtendedData>
+				<Data name='Стара назва'>
+					<value>4.1</value>
+				</Data>
+				<Data name='Площа, га'>
+					<value>171,3</value>
+				</Data>
+				<Data name='Населений пункт'>
+					<value>Кропивна</value>
+				</Data>
+				<Data name='Культура (2017 р.)'>
+					<value>Кукурудза</value>
+				</Data>
+				<Data name='Color'>
+					<value>#4a86e8ff</value>
+				</Data>
+				<Data name='Crop (eng)'>
+					<value>Corn</value>
+				</Data>
+				<Data name='Harvesting %'>
+					<value>100</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.209937,49.628674 32.209972,49.62872 32.21018,49.628703 32.210458,49.628686 32.210831,49.628653 32.211352,49.628575 32.211896,49.628575 32.212179,49.628597 32.212289,49.62865 32.212564,49.628672 32.213025,49.628653 32.213322,49.628596 32.213619,49.628481 32.213874,49.628319 32.214132,49.628179 32.214328,49.628079 32.214401,49.628137 32.214357,49.62826 32.214277,49.62847 32.214181,49.628637 32.214161,49.628761 32.21441,49.628809 32.2147,49.628869 32.214922,49.628957 32.215053,49.629115 32.215132,49.629303 32.215072,49.629427 32.214988,49.629907 32.215162,49.629994 32.215566,49.630242 32.217109,49.631239 32.219522,49.632892 32.221356,49.634237 32.223851,49.635928 32.224793,49.636597 32.22488,49.636591 32.225024,49.63651 32.225277,49.636399 32.225406,49.636405 32.225648,49.636491 32.225812,49.636598 32.22585,49.636688 32.225814,49.636823 32.225711,49.636908 32.225497,49.637089 32.226117,49.637482 32.229402,49.639817 32.231595,49.641432 32.234794,49.643656 32.238367,49.646166 32.239419,49.638073 32.230311,49.631577 32.228867,49.630583 32.224716,49.627623 32.221008,49.625063 32.219074,49.623628 32.218242,49.623087 32.217514,49.62262 32.217361,49.622686 32.217082,49.623107 32.21653,49.623772 32.216353,49.624026 32.216188,49.62433 32.215696,49.624871 32.215016,49.625666 32.214713,49.626056 32.213638,49.626921 32.213639,49.626914 32.213407,49.627159 32.212948,49.627371 32.212812,49.6274 32.212679,49.627483 32.212461,49.627692 32.212026,49.627869 32.211579,49.628037 32.211121,49.628198 32.21022,49.628537 32.209937,49.628674</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+	</Document>
+</kml>
